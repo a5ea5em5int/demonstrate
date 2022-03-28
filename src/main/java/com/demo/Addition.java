@@ -16,4 +16,8 @@ public class Addition {
         this.a = a;
         this.b = b;
     }
+    public int add()
+    {
+        return a+b;
+    }
 }
